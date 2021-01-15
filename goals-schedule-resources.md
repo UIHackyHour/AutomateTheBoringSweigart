@@ -1,7 +1,7 @@
 ## Our goals and expectations:
 
 1. Setup the essentials on your own computer.
-1. Download Anaconda.
+    1. Download Anaconda.
     1. Download VS Code.
         * Install VS Code extension Python.
         * Install VS Code extension Jupyter.
