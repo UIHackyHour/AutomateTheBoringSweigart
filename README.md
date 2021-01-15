@@ -41,3 +41,7 @@ All the learning materials in this repository have been taken from "Automate the
 * [Setting up __Git (Mac)__](https://medium.com/@aklson_DS/how-to-properly-setup-your-github-repository-mac-version-3a8047b899e5)
 * [Setting up __VS Code__](https://code.visualstudio.com/docs/python/python-tutorial)
 * [Setting up __Anaconda__](https://docs.anaconda.com/anaconda/)
+
+## Errors and Warnings
+
+* [warning: LF will be replaced by CRLF...]](http://vcloud-lab.com/entries/devops/resolved-git-warning-lf-will-be-replaced-by-crlf-in-file)
