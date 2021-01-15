@@ -2,7 +2,7 @@
 
 ## About
 
-All the learning materials in this repository have been taken from "Automate the Boring Stuff with Python, 2nd Edition: Practical Programming for Total Beginners" by Al Sweigart, which is free to read under a Creative Commons license. The book can be found at <https://automatetheboringstuff.com/>. Only minor changes were made, if any, for clarity in a Jupyter notebook format. This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 United States License. To view a copy of this license, visit <http://creativecommons.org/licenses/by-nc-sa/3.0/us/> or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
+All the learning materials in this repository have been taken from "Automate the Boring Stuff with Python, 2nd Edition: Practical Programming for Total Beginners" by Al Sweigart, which is free to read under a Creative Commons license. The book can be found at <https://automatetheboringstuff.com/>. Only minor changes were made, if any, for clarity in a Jupyter notebook format and for data analysis context. This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 3.0 United States License. To view a copy of this license, visit <http://creativecommons.org/licenses/by-nc-sa/3.0/us/> or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
 ## Our goals and expectations
 
@@ -44,4 +44,4 @@ All the learning materials in this repository have been taken from "Automate the
 
 ## Errors and Warnings
 
-* [warning: LF will be replaced by CRLF...]](http://vcloud-lab.com/entries/devops/resolved-git-warning-lf-will-be-replaced-by-crlf-in-file)
+* [warning: LF will be replaced by CRLF...](http://vcloud-lab.com/entries/devops/resolved-git-warning-lf-will-be-replaced-by-crlf-in-file)
