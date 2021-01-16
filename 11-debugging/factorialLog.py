@@ -1,6 +1,8 @@
+# Find the bug.
+# Hint: Look at the output.
+
 import logging
-logging.basicConfig(level=logging.DEBUG, format='%(asctime)s -  %(levelname)s
--  %(message)s')
+logging.basicConfig(level=logging.DEBUG, format='%(asctime)s -  %(levelname)s -  %(message)s')
 logging.debug('Start of program')
 
 def factorial(n):

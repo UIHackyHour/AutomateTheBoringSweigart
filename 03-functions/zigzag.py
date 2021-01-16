@@ -21,5 +21,5 @@ try:
             if indent == 0:
                 # Change direction:
                 indentIncreasing = True
-except KeyboardInterrupt:
+except KeyboardInterrupt: # raised by user when CTRL-C is pressed
     sys.exit()
