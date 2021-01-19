@@ -1,7 +1,7 @@
-# Files Git should not track
+# File types Git will ignore
 
 ## Editor settings
-*.vscode
+.vscode/
 
 ## Personal machine settings
 *.DS_Store
