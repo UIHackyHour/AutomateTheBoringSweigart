@@ -20,7 +20,18 @@ All the learning materials in this repository have been taken from "Automate the
 
 ## Schedule
 
-Beginning the first week of February. Times and dates TBD.
+* February 10 at 3:00 PM - Chapter 0
+* February 17 at 3:00 PM - Chapter 1
+* February 24 at 3:00 PM - Chapter 2
+* March 3 at 3:00 PM - Chapter 3
+* March 10 at 3:00 PM - Chapter 4
+* March 17 at 3:00 PM - Chapter 5
+* March 24 at 3:00 PM - Chapter 6
+* March 31 at 3:00 PM - Chapter 7
+* April 7 at 3:00 PM - Chapter 8
+* April 14 at 3:00 PM - Chapter 9
+* April 21 at 3:00 PM - Chapter 10
+* Aooril 28 at 3:00 PM - Chapter 11
 
 ## Resources
 
