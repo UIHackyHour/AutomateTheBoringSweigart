@@ -18,6 +18,9 @@ All the learning materials in this repository have been taken from "Automate the
 1. Participate in discussions.
 1. Provide feedback on workshop.
 
+## Meetings
+Zoom ID: 994 7478 7236
+
 ## Schedule
 
 * February 10 at 3:00 PM - Chapter 0
