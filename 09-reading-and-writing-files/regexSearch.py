@@ -17,16 +17,16 @@ while valid == False:
         valid = True
 # The above block asks for a user given directory, including the absolute path, and validates the input
 
-userRegrex = pyip.inputRegexStr("Search for (regrex compatible): ")
-# The above line takes a user input for a regrex string. 
-## Note: Because regrex is built into pyinputplus this program does not need to import re
+userRegex = pyip.inputRegexStr("Search for (regex compatible): ")
+# The above line takes a user input for a regex string. 
+## Note: Because regex is built into pyinputplus this program does not need to import re
 
 for path_txt in userPath.glob('*.txt'):
     textFile = open(path_txt)
     inFile = textFile.read()
-    matches = userRegrex.findall(inFile)
+    matches = userRegex.findall(inFile)
     textFile.close()
     print("In file: {}\n{}".format(path_txt, matches))
 # The above block iterates through all files in the userPath that end in .txt 
-## then searches within those files for strings that match the userRegrex 
+## then searches within those files for strings that match the userregex 
 ## printing the path/file and the the matched strings
